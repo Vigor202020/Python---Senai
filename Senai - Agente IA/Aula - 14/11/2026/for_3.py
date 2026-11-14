@@ -5,4 +5,4 @@ ataque = {"Chamas 🔥":25, "Água 🌊":20}     # Com os {} eu crio um DÍCIONA
 inimigo["vida"] = inimigo["vida"] - ataque["Chamas 🔥"]     # Posso puxar as diferentes informações com []
 inimigo["vida"] = inimigo["vida"] - ataque["Água 🌊"]
 
-print(f("O Héroi causou inimigo["vida"] ")
+print("O Inimigo está com", inimigo["vida"], "de vida.")
